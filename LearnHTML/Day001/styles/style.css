@@ -1,0 +1,35 @@
+/**
+    CSS -- 层叠样式表
+    允许你有选择性地为 HTML 文档的元素添加样式。
+ */
+html {
+    font-size: 16px;
+    background-color: #00539F;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto; /* 第一个值代表 上下 第二个值代表左右 auto则是对称 */
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px double green; /* 盒模型的边框： 宽度值 边框样式  颜色*/
+}
+
+h1 {
+    text-align: center;
+    margin:0;
+    padding:20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;/* 水平阴影 垂直阴影 模糊距离 阴影颜色 */
+}
+
+p, li {
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+img {
+    display: block;
+    margin:0 auto;
+}
