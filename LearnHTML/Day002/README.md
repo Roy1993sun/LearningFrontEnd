@@ -41,3 +41,39 @@
 
 ---
 
+### 属性 (Attributes)
+
+​	Example:
+
+```html
+<p class="editor-note">Hello World.</p>
+```
+
+
+
+​	属性特点：
+
+	1. 与元素名称之间有一个空格
+	2. attribute name, 等于号, attribute value.
+
+---
+
+### 元数据 (metadata)
+
+使用 \<meta /> 元素进行设置，里面可填入的属性一般为：
+
+```html
+<meta charset="utf-8" />  字符集
+<p>
+name specifies the type of meta element it is; what type of information it contains.
+name指定元素的类型;它包含什么类型的信息。 
+content specifies the actual meta content.
+content指定实际的元内容。
+</p>
+<meta name="author" content="Roy Sun" />  	作者 作者名
+<meta name="description" content="blablabla" />	  可以在搜索引擎中搜索到简要描述，SEO优化
+
+```
+
+
+
