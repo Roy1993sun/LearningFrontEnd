@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a490421-39b3-4437-a631-9d5d52585159" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day007/img/bbc-blocks-dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day007/img/icon_search_dark.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day007/img/orb-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day007/img/sign-in-img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day006/css/my_style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day006/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day007/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LearnHTML/Day007/html/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnHTML/Day004/Learn Links.html" afterPath="$PROJECT_DIR$/LearnHTML/Day004/Learn Links.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LearnHTML/Day005/Exam.html" afterPath="$PROJECT_DIR$/LearnHTML/Day005/Exam.html" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="FryFrontEnd" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4901257">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/LearnHTML/Day007/html/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="590">
+                  <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/LearnHTML/Day007/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="666">
+                  <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.下载</find>
+      <find>http://www.kmui.cn/</find>
+      <find>%E6%9D%8E%E4%BA%9A%E8%90%8C-%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%AC%AC%E4%BA%8C%E7%89%88_files</find>
+      <find>page1</find>
+      <find>images</find>
+      <find>img1</find>
+      <find>slides-container</find>
+      <find>slides-pagination</find>
+      <find>icon</find>
+      <find>hk-7</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>second</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/demo.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/index01.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/css/style.css" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/index.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/test.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/css/main.css" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day001/styles/style.css" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day001/index.html" />
+        <option value="$PROJECT_DIR$/试岗/index2.html" />
+        <option value="$PROJECT_DIR$/试岗/mainJs.js" />
+        <option value="$PROJECT_DIR$/试岗/css/demo.css" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/bootstrap/css/my_style.css" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/bootstrap/bootstrap-prestructure.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day001/scripts/main.js" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day001/README.md" />
+        <option value="$PROJECT_DIR$/LearnHTML/Notes.md" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day002/README.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day002/index.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day002/exercise.html" />
+        <option value="$PROJECT_DIR$/试岗/css/index2.html" />
+        <option value="$PROJECT_DIR$/test2/李亚萌-个人站第二版.htm" />
+        <option value="$PROJECT_DIR$/test/李亚萌-个人站.html" />
+        <option value="$PROJECT_DIR$/试岗/index.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/LearnNote.md" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/index.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/js/resumeBuilder.js" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day003/index.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day003/myJS.js" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day004/index.html" />
+        <option value="$USER_HOME$/Desktop/gui-config.json" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day004/Learn Iframes.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day005/Exam.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day006/css/my_style.css" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day006/html/index.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day004/Learn Links.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day007/html/index.html" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day007/css/style.css" />
+        <option value="$PROJECT_DIR$/LearnHTML/Day007/html/1.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1932" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TryFrontEnd">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TryFrontEnd">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="LearnHTML">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TryFrontEnd">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="LearnHTML">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Day007">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="TryFrontEnd">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="LearnHTML">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Day007">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="html">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TryFrontEnd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TryFrontEnd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TryFrontEnd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TryFrontEnd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="refo&#9;ACTION&#9;ReformatCode" />
+    <property name="settings.editor.splitter.proportion" value="0.19417475" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Roy12\WebstormProjects\FryFrontEnd\LearnHTML\Udacity\basic" />
+      <recent name="C:\Users\Roy12\WebstormProjects\FryFrontEnd\LearnHTML\Day001\images" />
+      <recent name="C:\Users\Roy12\WebstormProjects\FryFrontEnd\LearnHTML\Day001" />
+      <recent name="C:\Users\Roy12\WebstormProjects\FryFrontEnd\试岗" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Roy12\WebstormProjects\TryFrontEnd\LearnHTML\Day007\img" />
+      <recent name="C:\Users\Roy12\WebstormProjects\TryFrontEnd\LearnHTML\Day005" />
+      <recent name="C:\Users\Roy12\WebstormProjects\TryFrontEnd\LearnHTML\Udacity" />
+      <recent name="C:\Users\Roy12\WebstormProjects\TryFrontEnd\test2\李亚萌-个人站第二版_files" />
+      <recent name="C:\Users\Roy12\WebstormProjects\TryFrontEnd\test2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a490421-39b3-4437-a631-9d5d52585159" name="Default" comment="" />
+      <created>1480598183839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1480598183839</updated>
+      <workItem from="1480598185027" duration="15326000" />
+      <workItem from="1480747259749" duration="608000" />
+      <workItem from="1480775476148" duration="599000" />
+      <workItem from="1480938039613" duration="3367000" />
+      <workItem from="1481376413496" duration="6878000" />
+      <workItem from="1481592013604" duration="3835000" />
+      <workItem from="1481599616728" duration="16375000" />
+      <workItem from="1481693153586" duration="2202000" />
+      <workItem from="1481703060046" duration="225000" />
+      <workItem from="1481703309405" duration="2959000" />
+      <workItem from="1481772769433" duration="327000" />
+      <workItem from="1481780297421" duration="2911000" />
+      <workItem from="1481784424783" duration="33000" />
+      <workItem from="1481784476232" duration="10198000" />
+      <workItem from="1482116092686" duration="24000" />
+      <workItem from="1482116137432" duration="336000" />
+      <workItem from="1482116486189" duration="15927000" />
+      <workItem from="1482287166453" duration="1843000" />
+      <workItem from="1482370687963" duration="1840000" />
+      <workItem from="1482459105959" duration="4726000" />
+      <workItem from="1482478334791" duration="43000" />
+      <workItem from="1482479137787" duration="3049000" />
+      <workItem from="1482718529438" duration="1315000" />
+      <workItem from="1482720178692" duration="9408000" />
+      <workItem from="1483600694270" duration="353000" />
+      <workItem from="1483669709196" duration="1879000" />
+      <workItem from="1483686948924" duration="12475000" />
+      <workItem from="1483929892364" duration="14820000" />
+      <workItem from="1484102890004" duration="56964000" />
+      <workItem from="1486088328263" duration="31000" />
+      <workItem from="1486088408574" duration="10056000" />
+      <workItem from="1486112081735" duration="1571000" />
+      <workItem from="1486433535374" duration="1903000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit. 同步学习代码。">
+      <created>1481877626583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1481877626583</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit. 同步学习代码。">
+      <created>1481878242690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1481878242690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Class for HTML.">
+      <created>1482209702353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1482209702353</updated>
+    </task>
+    <task id="LOCAL-00004" summary="First Class for HTML.">
+      <created>1483859624311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1483859624311</updated>
+    </task>
+    <task id="LOCAL-00005" summary="First Class for HTML.">
+      <created>1483947879358</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1483947879358</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Do some Exercise.">
+      <created>1483950848908</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1483950848909</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="204406000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="2" width="1932" height="1036" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12695925" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24947807" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="First commit. 同步学习代码。" />
+    <MESSAGE value="First Class for HTML." />
+    <MESSAGE value="Do some Exercise." />
+    <option name="LAST_COMMIT_MESSAGE" value="Do some Exercise." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test2/second/2-top.png" />
+    <entry file="file://$PROJECT_DIR$/test2/second/3.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/4.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/5.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/a-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/b-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/banner.png" />
+    <entry file="file://$PROJECT_DIR$/test2/second/c-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/d-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/e-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/f-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/test2/second/jquery.css" />
+    <entry file="file://$PROJECT_DIR$/test2/second/logo.png" />
+    <entry file="file://$PROJECT_DIR$/test2/second/myjs.js" />
+    <entry file="file://$PROJECT_DIR$/test2/second/mystyle.css" />
+    <entry file="file://$PROJECT_DIR$/test2/second/next.png" />
+    <entry file="file://$PROJECT_DIR$/test2/second/part2-1.png" />
+    <entry file="file://$PROJECT_DIR$/test2/李亚萌-个人站第二版.htm" />
+    <entry file="file://$PROJECT_DIR$/test/res/gray.css" />
+    <entry file="file://$PROJECT_DIR$/test/res/client-01.png" />
+    <entry file="file://$PROJECT_DIR$/test/res/client-02.png" />
+    <entry file="file://$PROJECT_DIR$/test/res/client-03.png" />
+    <entry file="file://$PROJECT_DIR$/test/res/client-04.png" />
+    <entry file="file://$PROJECT_DIR$/test/res/style.css" />
+    <entry file="file://$PROJECT_DIR$/test/res/home.png" />
+    <entry file="file://$PROJECT_DIR$/test/res/imac.png" />
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/js/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2376">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="162">
+            <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/LearnNote.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="81">
+            <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Notes.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/js/resumeBuilder.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Udacity/frontend-nanodegree-resume-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="97" column="0" lean-forward="true" selection-start-line="97" selection-start-column="0" selection-end-line="97" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day002/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/李亚萌-个人站.html" />
+    <entry file="file://$PROJECT_DIR$/试岗/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day003/myJS.js" />
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day003/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="100" column="21" lean-forward="false" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="403" column="9" lean-forward="true" selection-start-line="403" selection-start-column="9" selection-end-line="403" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/gui-config.json" />
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day004/Learn Forms.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day004/Learn Iframes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day005/Exam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="57" column="9" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day006/css/my_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day006/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day004/Learn Links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day007/img/more-arrow.jpg" />
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day007/img/bbc-blocks-dark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day007/html/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day007/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearnHTML/Day007/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
